@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1IAAR5FOwIQ3VvKwRqR0dPEmXARz0gJs3NgL/zc6jGtRMi+z9esxsjkXtih6VWpSlAPcl4La583pbLuiKckkhQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\amcel\\OneDrive\\Desktop\\repos\\WeatherApp\\WeatherApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\amcel\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
